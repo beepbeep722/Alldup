@@ -218,4 +218,4 @@ AllDup is offered as a full free version, providing all features and updates wit
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-30 20:26:44 UTC
+**Last updated:** 2026-10-31 00:26:09 UTC
